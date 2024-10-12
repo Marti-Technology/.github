@@ -1,6 +1,6 @@
 # Welcome to Marti Technology 🚀
 
-![Marti Logo](https://marti.tech/logo.png) <!-- Buraya logo URL'sini ekleyin -->
+![Marti Logo]([https://marti.tech/logo.png](https://www.marti.tech/wp-content/uploads/2022/08/marti_140cl_white.png)) <!-- Buraya logo URL'sini ekleyin -->
 
 **Founded in 2018**, Marti is Türkiye’s mobility super app, offering multiple transportation services to its riders. Marti has launched a ride hailing service that matches riders with drivers traveling in the same direction and operates a large fleet of **e-mopeds**, **e-bikes**, and **e-scooters**. All of Marti’s offerings are powered by proprietary software systems and IoT infrastructure.
 
