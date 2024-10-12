@@ -16,6 +16,7 @@ Marti provides the following transportation services:
 <a href="https://apps.apple.com/us/app/marti-scooter/id1454358771?itsct=apps_box&itscg=30200">
   <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on App Store" width="200">
 </a>
+
 ### Google Play
 <a href="https://play.google.com/store/apps/details?id=com.martitech.marti&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">
